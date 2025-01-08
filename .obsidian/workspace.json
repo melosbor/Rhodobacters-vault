@@ -16,7 +16,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "TODO.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Mode of Interactions/Summary.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Summary"
             }
           },
           {
@@ -49,14 +55,64 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Figures Brainstorm 7-2-24.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "db3b9a1e3b37c06a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/trait analysis.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "trait analysis"
+            }
+          },
+          {
+            "id": "81949284b76be20f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/takeaways.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "takeaways"
+            }
+          },
+          {
+            "id": "976647cb9ba7d9d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-08 11.25.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-08 11.25.54.excalidraw"
+            }
+          },
+          {
+            "id": "4014784d187deec0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-08 11.40.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-08 11.40.31.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -76,7 +132,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +149,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -122,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Figures Brainstorm 7-2-24.md",
+                "file": "Excalidraw/Drawing 2025-01-08 11.40.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +192,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2025-01-08 11.40.31.excalidraw"
             }
           },
           {
@@ -139,10 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Figures Brainstorm 7-2-24.md",
+                "file": "Excalidraw/Drawing 2025-01-08 11.40.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2025-01-08 11.40.31.excalidraw"
             }
           },
           {
@@ -153,7 +219,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +230,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Figures Brainstorm 7-2-24.md"
-              }
+                "file": "Excalidraw/Drawing 2025-01-08 11.40.31.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-01-08 11.40.31.excalidraw"
             }
           },
           {
@@ -171,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -195,12 +267,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5fcaf6880390227",
+  "active": "4014784d187deec0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-08 11.25.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-08 11.40.31.excalidraw.md",
+    "Excalidraw/mechanisms.md",
+    "Excalidraw/Workflow.md",
+    "Excalidraw/Workflow.png",
+    "Excalidraw/trait analysis.md",
+    "Excalidraw/takeaways.md",
+    "Excalidraw/Strains of Interest.md",
+    "attachments/Pasted Image 20250108104946_118.png",
+    "attachments/Pasted Image 20250108104744_547.png",
+    "attachments/Pasted Image 20250108104729_519.png",
+    "attachments/Pasted Image 20250108104624_240.png",
+    "TODO.md",
+    "Untitled.md",
+    "attachments/Pasted Image 20250108103919_527.png",
+    "Excalidraw",
+    "2024-06-14.md",
     "Mode of Interactions/Summary.md",
     "Figures Brainstorm 7-2-24.md",
-    "2024-06-14.md",
-    "TODO.md",
     "README.md",
     "TODOs",
     "TO DO List.md",
