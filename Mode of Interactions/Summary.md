@@ -29,3 +29,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7923163/#:~:text=The%20auxin%20indo
 
 
 (3) redox/photosynthesis
+(4) nitrogen cycling

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5fcaf6880390227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Figures Brainstorm 7-2-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mode of Interactions/Summary.md",
+                "file": "Figures Brainstorm 7-2-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mode of Interactions/Summary.md",
+                "file": "Figures Brainstorm 7-2-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mode of Interactions/Summary.md"
+                "file": "Figures Brainstorm 7-2-24.md"
               }
             }
           },
@@ -183,11 +195,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bc05da1b308d59ce",
+  "active": "e5fcaf6880390227",
   "lastOpenFiles": [
-    "TODO.md",
     "Mode of Interactions/Summary.md",
+    "Figures Brainstorm 7-2-24.md",
     "2024-06-14.md",
+    "TODO.md",
     "README.md",
     "TODOs",
     "TO DO List.md",
