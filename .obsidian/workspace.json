@@ -103,16 +103,30 @@
             "id": "4014784d187deec0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-08 11.25.54.excalidraw.md"
+                "file": "Mode of Interactions/Summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-08 11.25.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "Summary"
+            }
+          },
+          {
+            "id": "22065a8769213738",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -256,6 +270,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -268,27 +283,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4014784d187deec0",
+  "active": "22065a8769213738",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-08 11.25.54.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-08 11.40.31.excalidraw.md",
-    "Excalidraw/Strains of Interest.md",
-    "Excalidraw/Workflow.md",
     "Excalidraw/trait analysis.md",
     "Excalidraw/takeaways.md",
     "Excalidraw/mechanisms.md",
+    "Excalidraw/Strains of Interest.md",
+    "attachments/Pasted Image 20250108104624_240.png",
+    "Figures Brainstorm 7-2-24.md",
+    "Excalidraw/Workflow.md",
+    "attachments/Pasted Image 20250108104729_519.png",
+    "attachments/Pasted Image 20250108103919_527.png",
+    "Excalidraw/Drawing 2025-01-08 11.40.31.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-08 11.25.54.excalidraw.md",
     "Excalidraw/Workflow.png",
     "attachments/Pasted Image 20250108104946_118.png",
     "attachments/Pasted Image 20250108104744_547.png",
-    "attachments/Pasted Image 20250108104729_519.png",
-    "attachments/Pasted Image 20250108104624_240.png",
     "TODO.md",
     "Untitled.md",
-    "attachments/Pasted Image 20250108103919_527.png",
     "Excalidraw",
     "2024-06-14.md",
     "Mode of Interactions/Summary.md",
-    "Figures Brainstorm 7-2-24.md",
     "README.md",
     "TODOs",
     "TO DO List.md",
