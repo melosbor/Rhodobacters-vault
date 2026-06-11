@@ -11,33 +11,28 @@
             "id": "22065a8769213738",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AI/session_0_practical_llm_primer.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/trait analysis.md"
               },
-              "icon": "lucide-file",
-              "title": "session_0_practical_llm_primer"
+              "icon": "excalidraw-icon",
+              "title": "trait analysis"
             }
-          }
-        ]
-      },
-      {
-        "id": "4e82cf20c26e564e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6fee2ab203d235a3",
+            "id": "08a8b60794bd2359",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,16 +189,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6fee2ab203d235a3",
+  "active": "a65b6d6c22eddc78",
   "lastOpenFiles": [
-    "README.md",
+    "Excalidraw/mechanisms.md",
     "AI/session_0_practical_llm_primer.md",
+    "README.md",
     "TODO.md",
     "Mode of Interactions/Summary.md",
     "AI",
     "Excalidraw/trait analysis.md",
     "Excalidraw/takeaways.md",
-    "Excalidraw/mechanisms.md",
     "Excalidraw/Strains of Interest.md",
     "attachments/Pasted Image 20250108104624_240.png",
     "Figures Brainstorm 7-2-24.md",
